@@ -1,17 +1,21 @@
 # Christopher Igweze
 
 Engineer. AI agents and dev tooling. Lagos, Nigeria.
-Currently at Expedio Technologies.
+Currently at Multiskills Nigeria Limited.
 
-I build real things that ship to production. Mostly AI agents, security tooling, and voice infrastructure.
+I build real things that ship to production. Mostly AI agents and developer tooling.
 
 ## What I'm building
 
-**Odoo Agents.** Pydantic AI agent platform with intent/executor architecture, sitting on top of Odoo. Multi-tenant, in production.
+**Odoo Agents.** AI agent platform with intent/executor architecture, sitting on top of Odoo. Pydantic AI, multi-tenant, in production.
 
-**FORGE and Vibe2Prod.** AI-native security audit engine. The first thing I scanned with FORGE was Vibe2Prod itself.
+**Odoo MCP.** HTTP REST API over Odoo with encrypted API keys, multi-tenant auth, and connection pooling. Built for n8n, webhooks, and custom integrations. Public version: [python-odoo-mcp](https://github.com/christopher-igweze/python-odoo-mcp).
 
-**AwaVoice.** Voice product built on LiveKit. Infra and observability work happens alongside.
+**Portfolio.** Personal site at [christopherigweze.com](https://www.christopherigweze.com).
+
+**LinkedIn content agents.** Multi-agent system on Claude Code for content strategy. Apify scraping, dynamic categorization, Notion audits.
+
+**Security tooling.** [FORGE](https://github.com/christopher-igweze/forge-engine) (audit & remediation engine) and [Vibe2Prod](https://github.com/christopher-igweze/vibe2prod). The first thing I scanned with FORGE was Vibe2Prod itself.
 
 ## Repos, organized
 
@@ -23,14 +27,8 @@ The Early Work list stays visible on purpose. Data science coursework, universit
 
 Python (FastAPI, Pydantic v2, Pydantic AI). TypeScript (Next.js, React). Supabase, Coolify, Docker. Claude for most agent work.
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=christopher-igweze&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-igweze&layout=compact&hide_border=true&theme=dark)
-
 ## Elsewhere
 
-- Site: [christopherigweze.com](https://www.christopherigweze.com)
-- Design system & engineering bible: [Design-System-and-Engineering-Principles](https://github.com/christopher-igweze/Design-System-and-Engineering-Principles)
+Site: [christopherigweze.com](https://www.christopherigweze.com)
 
 If you'd want me on your team, my DMs are open.
