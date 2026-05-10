@@ -21,7 +21,7 @@ I build real things that ship to production. Mostly AI agents and developer tool
 
 40+ repos is a lot to scroll, so I keep them grouped under [Stars Lists](https://github.com/christopher-igweze?tab=stars). Current categories: AI Agents, Security & Governance, Voice, Foundations, Experiments, Early Work.
 
-The Early Work list stays visible on purpose. Data science coursework, university projects, the language learning. The career transition is part of the picture, not something to hide.
+The Early Work list stays visible on purpose. Data science works, university projects, the language learning. The career transition is part of the picture, not something to hide.
 
 ## Stack
 
